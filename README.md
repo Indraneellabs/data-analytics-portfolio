@@ -15,8 +15,6 @@ I am a data analytics enthusiast with hands-on experience in Python, SQL, Power 
 - Segmented customers into high, medium, and low value groups
 - Visualized insights using Matplotlib
 
-📁 Folder: `Sales-Data-Analysis-Python`
-
 ---
 
 ### 🔹 Customer Churn Prediction
