@@ -19,7 +19,7 @@ I am a data analytics enthusiast with hands-on experience in Python, SQL, Power 
 
 ---
 
-### 🔹 Customer Churn Prediction (Coming Soon)
+### 🔹 Customer Churn Prediction
 - Build machine learning models to predict customer churn
 - Perform data preprocessing and feature engineering
 - Evaluate models using classification metrics
